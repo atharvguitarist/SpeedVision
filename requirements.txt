@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+Pillow
+nltk
+pandas
+scikit-learn
+tk
+xml
