@@ -6,8 +6,6 @@
 
 [Watch Demo](https://github.com/user-attachments/assets/1f9da6ad-d2e2-42f8-b488-f7b2b4218e32)
 
-[Demo in Action](https://github.com/user-attachments/assets/dc857d06-ef5c-4912-9e77-cce540e0d2a1)
-
 ## ✨ Features
 
 - 🏎️ **Real-Time Vehicle Speed Calculation**: Detect and calculate the speed of vehicles directly from videos.
